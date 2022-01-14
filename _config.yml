@@ -31,15 +31,15 @@ webrick:
 
 # Navigation
 navigation:
-  - title: Home
+  - title: Accueil
     url: /
-  - title: About
+  - title: A propos
     url: /about
   - title: Portfolio
     url: /portfolio
-  - title: Blog
+  - title: CV
     url: /blog
-  - title: Get in touch
+  - title: Contact
     url: /contact
     tag: special
 
@@ -67,8 +67,6 @@ footer:
         url   : "/about"
       - name  : "Projects"
         url   : "/portfolio"
-      - name  : "Blog"
-        url   : "/blog"
       - name  : "Contact"
         url   : "/contact"
   social:
@@ -105,5 +103,3 @@ footer:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-cayman
