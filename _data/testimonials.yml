@@ -1,13 +1,10 @@
 enable  : true
-title   : "OPINION FROM REAL PEOPLE"
-subtitle: "What clients says about our services."
+title   : "Mes prestations"
+subtitle: "Mon expérience à votre service"
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Erica Delagnier"
-    company_position: "CEO, Agatha-Budget"
-    quote : > 
-            "Mon logo est superbe" 
-
+    name  : "GRAPHICAL ABSTRACT"
+    company_position: "Des images percutantes et belles."
   - thumb : "images/testimonial/user-thumb-two.jpg"
     name  : "Rekon Montino"
     company_position: "CDO, Bulmuci"

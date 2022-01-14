@@ -1,10 +1,10 @@
 ---
 layout: project
-title: "USE-LESS BRAND"
+title: "Le lymphoedème"
 date: 2020-03-10 21:11:27
 type: portfolio
-image: "images/projects/project-thumb-one.jpg"
-category: ["UI UX"]
+image: "images/projects/project-thumb-one.png"
+category: ["ILLUSTRATION CONCOURS CR"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
