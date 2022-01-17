@@ -98,7 +98,7 @@
   }
   &-header{
     padding: 170px 0 100px;
-    background: $gray;
+    background: rgba(8, 156, 191, 0.10);
     @include tablet{
       padding: 120px 0 80px;
     }
@@ -106,7 +106,7 @@
       h1{
         font-size: 55px;
         span{
-          color: $primary-color;
+          color: $secondary-color;
         }
         @include tablet{
           font-size: 40px;
