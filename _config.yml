@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 title: Threonine Design
-email: help@staticmania.com
+email: contact@threoninedesign.fr
 description: Threonine | Illustrer la science
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -56,33 +56,34 @@ call-to-action:
 # Footer
 footer:
   contactInfo:
-    title   : "Contact Info"
-    address : "713 Elmwood St.<br>Prior Lake, MN 55372"
-    phone   : "409-896-1444"
-    email   : "info@roxo.co"
+    title   : "Informations de contact"
+    address : "Anne-Claire Godet </br> 220 chemin de Montabon <br/> 38660 LE TOUVET <br/> FRANCE"
+    email   : "contact@threoninedesign.fr"
   sitemap:
-    title: "Sitemap"
+    title: "Plan du site"
     link: 
-      - name  : "About Company"
+      - name  : "A propos"
         url   : "/about"
-      - name  : "Projects"
+      - name  : "Portfolio"
         url   : "/portfolio"
+      - name  : "CV"
+        url   : "/cv"
       - name  : "Contact"
         url   : "/contact"
   social:
-    title: "Social Media"
+    title: "Réseaux sociaux"
     link: 
-      - name  : "Medium"
-        url   : "#"
-      - name  : "Behance"
-        url   : "#"
-      - name  : "Dribbble"
+      - name  : "Linkedin"
         url   : "#"
       - name  : "Instagram"
         url   : "#"
+      - name  : "Behance"
+        url   : "#"
+      - name  : "Facebook"
+        url   : "#"
   service:
-    title: "We help brands:"
-    description: "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+    title: "J'aide les chercheurs à:"
+    description: "Libérer du temps pour se consacrer à leur coeur de métier <br/> Mettre en valeur leurs résultats </br> Faire passer leur message"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -2,35 +2,21 @@ enable  : true
 title   : "Mes prestations"
 subtitle: "Mon expérience à votre service"
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
+  - thumb : "images/testimonial/user-thumb-one.png"
     name  : "GRAPHICAL ABSTRACT"
-    company_position: "Des images percutantes et belles."
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Rekon Montino"
-    company_position: "CDO, Bulmuci"
-    quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
-
-  - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ryan Hillary"
-    company_position: "MD, Udilamo"
-    quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
-
-  - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
-    quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
-
-  - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
-    quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
-
-  - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
-    company_position: "PDO, Komoyo"
-    quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+    subtitle: "Des images percutantes et belles."
+  - thumb : "images/testimonial/user-thumb-two.png"
+    name  : "CONCEPTION DE FIGURES"
+    subtitle: "Des résultats au top de leur forme."
+  - thumb : "images/testimonial/user-thumb-three.png"
+    name  : "PRESENTATIONS ORALES "
+    subtitle: "Simple, efficace, dynamique."
+  - thumb : "images/testimonial/user-thumb-four.png"
+    name  : "IDENTITE VISUELLE"
+    subtitle: "L’essence de votre équipe."
+  - thumb : "images/testimonial/user-thumb-five.png"
+    name  : "ANIMATION 2D"
+    subtitle: "Donner vie à la science."                
+  - thumb : "images/testimonial/user-thumb-six.png"
+    name  : "RESEAUX SOCIAUX"
+    subtitle: "Faire passer le message."  
