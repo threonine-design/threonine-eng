@@ -38,7 +38,7 @@ navigation:
   - title: Portfolio
     url: /threonine/portfolio
   - title: CV
-    url: https://ermoca.github.io/threonine/images/backgrounds/hero-background.png
+    url: /threonine/cv
   - title: Contact
     url: /threonine/contact
     tag: special
@@ -67,7 +67,7 @@ footer:
       - name  : "Portfolio"
         url   : "/threonine/portfolio"
       - name  : "CV"
-        url   : "https://ermoca.github.io/threonine/images/backgrounds/hero-background.png"
+        url   : "/threonine/cv"
       - name  : "Contact"
         url   : "/threonine/contact"
   social:
