@@ -1,6 +1,7 @@
 //site color variables
 $body-color: #fff;
 $primary-color: #089CBF;
+$transparentprimary: rgba(8,156,191,0.70);
 $secondary-color: #DBDF58;
 $text-color: #9D9EA5;
 $text-color-dark: #00113E;
@@ -13,8 +14,8 @@ $white: #fff;
 $black: #000;
 
 // Font Variables
-$primary-font: 'Josefin Sans', sans-serif;
-$secondary-font: 'Montserrat', sans-serif;
+$primary-font: 'Quicksand', sans-serif;
+$secondary-font: 'Raleway', sans-serif;
 
 img {
     pointer-events: none;
