@@ -3,8 +3,8 @@
 title: Threonine Design
 email: contact@threoninedesign.fr
 description: Threonine | Illustrer la science
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ermoca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/threonine" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 # We're using formspree.io for form handling, paste your formspree url below
@@ -49,9 +49,9 @@ call-to-action:
   background_image      : "images/backgrounds/cta-background.jpg"
   title                 : "Travaillons ensemble !"
   primary_button        : "Contactez-moi"
-  primary_button_url    : "/threonine/contact"
+  primary_button_url    : "contact"
   secondary_button      : "Revoir mon travail"
-  secondary_button_url  : "/threonine/portfolio"
+  secondary_button_url  : "portfolio"
 
 # Footer
 footer:
@@ -63,22 +63,22 @@ footer:
     title: "Plan du site"
     link: 
       - name  : "A propos"
-        url   : "/about"
+        url   : "/threonine/about"
       - name  : "Portfolio"
-        url   : "/portfolio"
+        url   : "/threonine/portfolio"
       - name  : "CV"
-        url   : "/cv"
+        url   : "/threonine/cv"
       - name  : "Contact"
-        url   : "/contact"
+        url   : "/threonine/contact"
   social:
     title: "Réseaux sociaux"
     link: 
       - name  : "Linkedin"
-        url   : "#"
+        url   : "https://www.linkedin.com/in/anne-claire-godet-031/"
       - name  : "Instagram"
-        url   : "#"
+        url   : "https://www.instagram.com/threo.nine/"
       - name  : "Behance"
-        url   : "#"
+        url   : "https://www.behance.net/threoninedesign"
       - name  : "Facebook"
         url   : "#"
   service:
