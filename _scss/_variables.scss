@@ -15,3 +15,7 @@ $black: #000;
 // Font Variables
 $primary-font: 'Josefin Sans', sans-serif;
 $secondary-font: 'Montserrat', sans-serif;
+
+img {
+    pointer-events: none;
+}

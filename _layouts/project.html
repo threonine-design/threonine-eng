@@ -6,10 +6,8 @@ layout: default
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <div class="site-project-single">
-          <div class="site-project-single-image">
-            {%- for image in page.project_images -%}
-              <img src="{{ image | absolute_url }}" alt="project image">
-            {%- endfor -%}
+          <div>
+              <img src="{{ page.image | absolute_url }}" alt="project image">
           </div>
           <h1>
             {{ page.title }}
