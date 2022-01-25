@@ -4,7 +4,7 @@ title: Threonine Design
 email: contact@threoninedesign.fr
 description: Threonine | Illustrer la science
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ermoca.github.io/threonine/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 # We're using formspree.io for form handling, paste your formspree url below
