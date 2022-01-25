@@ -3,7 +3,7 @@
 title: Threonine Design
 email: contact@threoninedesign.fr
 description: Threonine | Illustrer la science
-baseurl: "/threonine" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ermoca.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -46,7 +46,7 @@ navigation:
 # Call to action
 call-to-action:
   enable                : true
-  background_image      : "images/backgrounds/cta-background.jpg"
+  background_image      : "images/backgrounds/cta-background2.jpg"
   title                 : "Travaillons ensemble !"
   primary_button        : "Contactez-moi"
   primary_button_url    : "/contact"

@@ -26,6 +26,9 @@
       text-align: center;
     }
     .nav-link{
+      &:hover{
+        color : $primary-color;
+      }
       font-family: $secondary-font;
       color: $text-color-dark;
       transition: all .3s ease;
