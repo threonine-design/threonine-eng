@@ -45,7 +45,7 @@
         bottom: 40px;
         display: block;
         width: 100%;
-        color: $text-color;
+        color: $body-color;
         opacity: 0;
         transform: translateY(20px);
         transition: all 0.3s $site-ease;
@@ -108,7 +108,7 @@
       h1{
         font-size: 55px;
         span{
-          color: $secondary-color;
+          color: $primary-color;
         }
         @include tablet{
           font-size: 40px;

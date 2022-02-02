@@ -14,7 +14,7 @@ testimonial_item :
   - thumb : "images/testimonial/user-thumb-four.png"
     name  : "IDENTITE VISUELLE"
     subtitle: "L’essence de votre équipe."
-  - thumb : "images/testimonial/user-thumb-five.png"
+  - thumb : "images/testimonial/MOTION-gif.gif"
     name  : "ANIMATION 2D"
     subtitle: "Donner vie à la science."                
   - thumb : "images/testimonial/user-thumb-six.png"

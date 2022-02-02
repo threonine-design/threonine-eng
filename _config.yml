@@ -29,10 +29,10 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 
-# Navigation
+# Navigation (remember to remove the redondant /threonine)
 navigation:
   - title: Accueil
-    url: /threonine
+    url: /threonine/threonine
   - title: A propos
     url: /threonine/about
   - title: Portfolio
