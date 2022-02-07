@@ -2,8 +2,13 @@
 layout: default
 title: A propos
 permalink: /about/
-heading : "JE SUIS ANNE-CLAIRE GODET, DESIGNER GRAPHIQUE ET ILLUSTRATRICE SCIENTIFIQUE TITULAIRE D'UN DOCTORAT EN BIOLOGIE CELLULAIRE."
-description : "blblbblblblblblblblbllblblb blblblbl blblbl blbblbl"
+heading : "JE M'APPELLE ANNE-CLAIRE GODET, DOCTEURE EN BIOLOGIE CELLULAIRE. <br> JE SUIS AUSSI DESIGNER GRAPHIQUE ET ILLUSTRATRICE SCIENTIFIQUE."
+description : "THRÉONINE, c'est la connexion entre deux mondes : l'art et la science.
+Depuis toujours passionnée de graphisme, et après une première année aux
+Beaux-Arts de Valence, je décide de poursuive mes études dans mon deuxième monde de prédilection, la biologie. Cette passion m'a conduite à écrire et soutenir
+ma thèse dans le domaine de la biologie cellulaire et moléculaire avant de décider d'allier mes deux univers de prédilection en devenant illustratrice et designer graphique, spécialisée dans la recherche scientifique. 
+D'où vient le nom THRÉONINE ? La thréonine est un acide aminé qui a la particularité d'être codé par le codon génétique 'ACG', formant mes initiales.
+"
 expertise_title: "Expertise"
 expertise_sectors: ["Illustration d’articles, de revue de la littérature", "Conception de figures, de poster", "Animation/Motion design en 2D", "Présentations orales", "Logo d’équipe, d’événement", "Conseils de conception"]
 ---
@@ -56,26 +61,7 @@ expertise_sectors: ["Illustration d’articles, de revue de la littérature", "C
 
 {%- if site.data.clients.enable -%}
 {%- assign clients = site.data.clients -%}
-<!-- start: clients section -->
-<section class="site-client">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="section-title">
-          <h2>{{ clients.title }}</h2>
-        </div>
-        <div class="site-client-wrapper">
-          {%- for logo in clients.client_logos -%}
-            <div class="site-client-item">
-              <img src="{{ logo | absolute_url }}" alt="client-logo">
-            </div>
-          {%- endfor -%}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- end: clients section -->
+
 {%- assign clients = nill -%}
 {%- endif -%}
 

@@ -2,8 +2,8 @@
 layout: default
 title: Contact
 permalink: '/contact'
-heading       : "Don’t be shy. Say <span>Hello.</span>"
-form_heading  : "TELL US ABOUT YOUR PROJECT"
+heading       : "Bonjour. Contactez <span> Moi !</span>"
+form_heading  : "PARLEZ-MOI DE VOTRE PROJET"
 ---
 
 <!-- start: contact section -->
@@ -21,31 +21,36 @@ form_heading  : "TELL US ABOUT YOUR PROJECT"
           <form id="contact-form" action="{{ site.formspreeFormUrl }}" method="POST">
             <div class="row">
               <div class="col-lg-6">
-                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="First Name">
+                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="Prénom">
               </div>
               <div class="col-lg-6">
-                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Last Name">
+                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Nom">
               </div>
               <div class="col-lg-6">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Email">
               </div>
               <div class="col-lg-6">
                 <div class="select-wrapper">
-                  <select class="form-control" id="projectType" name="project-type">
-                    <option value="" selected disabled hidden>Project Type</option>
-                    <option value="gd">Graphics Design</option>
-                    <option value="wb">Web Design</option>
+                  <select class="form-control" id="projectType" name="Type de projet">
+                    <option value="" selected disabled hidden>Type de projet</option>
+                    <option value="wb">Illustration</option>
+                    <option value="gd">Design d'identité visuelle</option>
+                    <option value="wb">Animation 2D</option>
+                    <option value="wb">Présentation orale</option>
+                    <option value="wb">Mise en page de figure</option>
+                    <option value="wb">Conseil</option>
+                    <option value="wb">Autre</option>
                   </select>
                 </div>
               </div>
               <div class="col-12">
-                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="About the Project"></textarea>
+                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="À propos du projet"></textarea>
               </div>
               <div class="col-12">
                 <button type="submit" class="btn btn-primary" id="contact-form-button">
                   <span class="btn-area">
                     <span data-text="Send Message">
-                      Send Message
+                      Envoyer le message
                     </span>
                   </span>
                 </button>
