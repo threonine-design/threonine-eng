@@ -5,6 +5,7 @@ date: 2020-03-12 21:11:27
 type: blog
 image: images/blog/blog-post-03.jpg
 feature_image: images/blog/blog-details-image.jpg
+slider: [images/blog/blog-post-03.jpg, images/blog/blog-details-image.jpg]
 author: Alexender Schoitiz
 ---
 ### Black Lines brand identity, by & Smith
