@@ -3,23 +3,24 @@
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 46.8 58.6" style="enable-background:new 0 0 46.8 58.6;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#00113E;}
-	.st1{fill:none;stroke:#589BBD;stroke-width:2.8417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st0{display:none;}
+	.st1{display:inline;fill:#00113E;}
+	.st2{fill:none;stroke:#589BBD;stroke-width:2.8417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<g id="download" transform="translate(-3.282)">
-	<path id="Path_1" class="st0" d="M26.7,45.6c-0.3,0-0.5-0.2-0.5-0.5V13.5c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v31.6
+<g id="download" transform="translate(-3.282)" class="st0">
+	<path id="Path_1" class="st1" d="M26.7,45.6c-0.3,0-0.5-0.2-0.5-0.5V13.5c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5v31.6
 		C27.2,45.4,26.9,45.6,26.7,45.6z"/>
-	<path id="Path_2" class="st0" d="M26.7,45.6L26.7,45.6c-0.1,0-0.3-0.1-0.4-0.1L13.8,32.9c-0.2-0.2-0.2-0.5,0-0.7
+	<path id="Path_2" class="st1" d="M26.7,45.6L26.7,45.6c-0.1,0-0.3-0.1-0.4-0.1L13.8,32.9c-0.2-0.2-0.2-0.5,0-0.7
 		c0.2-0.2,0.5-0.2,0.7,0l12.2,12.2l12.2-12.2c0.2-0.2,0.5-0.2,0.7,0c0.2,0.2,0.2,0.5,0,0.7c0,0,0,0,0,0L27,45.5
 		C26.9,45.5,26.8,45.6,26.7,45.6z"/>
 </g>
 <g>
-	<line class="st1" x1="23.4" y1="2.1" x2="23.4" y2="56"/>
+	<line class="st2" x1="23.4" y1="2.1" x2="23.4" y2="56"/>
 </g>
 <g>
-	<line class="st1" x1="4.2" y1="37.1" x2="23.4" y2="56.3"/>
+	<line class="st2" x1="4.2" y1="37.1" x2="23.4" y2="56.3"/>
 </g>
 <g>
-	<line class="st1" x1="42.6" y1="37.1" x2="23.4" y2="56.3"/>
+	<line class="st2" x1="42.6" y1="37.1" x2="23.4" y2="56.3"/>
 </g>
 </svg>
