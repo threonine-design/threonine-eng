@@ -22,6 +22,7 @@
   }
   &-content{
     h1{
+      background: #089CBF;
       color: $body-color;
       margin-bottom: 75px;
       @include desktop-lg{
