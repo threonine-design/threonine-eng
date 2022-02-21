@@ -22,7 +22,6 @@
   }
   &-content{
     h1{
-      text-shadow: 0 0 #089CBF, 0 -1px 0 #089CBF, 0 1px 0 #089CBF, -1px 0 0 #089CBF;
       color: $body-color;
       margin-bottom: 75px;
       @include desktop-lg{
