@@ -17,7 +17,7 @@ layout: default
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="{{ page.image | absolute_url }}">
+                  <img class="d-block w-100" src="{{ page.first_image | absolute_url }}">
                 </div>
                 {% for img in page.project_images %}
                 <div class="carousel-item">
@@ -34,8 +34,8 @@ layout: default
                 <span class="sr-only">Suivant</span>
               </a>
             </div>
-            {% else %}
-              <img src="{{ page.image | absolute_url }}" alt="project image">
+            {% elsif page.first_image %}
+              <img src="{{ page.first_image | absolute_url }}" alt="project image">
             {% endif %}
           </div>
           <h1>
