@@ -3,7 +3,7 @@
 title: Threonine Design
 email: contact@threoninedesign.fr
 description: Threonine | Illustrer la science
-baseurl: "/threonine" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -32,15 +32,15 @@ webrick:
 # Navigation (remember to remove the redondant /threonine)
 navigation:
   - title: Accueil
-    url: /threonine/threonine
+    url: /
   - title: A propos
-    url: /threonine/about
+    url: /about
   - title: Portfolio
-    url: /threonine/portfolio
+    url: /portfolio
   - title: CV
-    url: /threonine/cv
+    url: /cv
   - title: Contact
-    url: /threonine/contact
+    url: /contact
     tag: special
 
 # Call to action
@@ -63,13 +63,13 @@ footer:
     title: "Plan du site"
     link: 
       - name  : "A propos"
-        url   : "/threonine/about"
+        url   : "/about"
       - name  : "Portfolio"
-        url   : "/threonine/portfolio"
+        url   : "/portfolio"
       - name  : "CV"
-        url   : "/threonine/cv"
+        url   : "/cv"
       - name  : "Contact"
-        url   : "/threonine/contact"
+        url   : "/contact"
   social:
     title: "Réseaux sociaux"
     link: 
