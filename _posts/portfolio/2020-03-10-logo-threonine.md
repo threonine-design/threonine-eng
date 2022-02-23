@@ -9,4 +9,4 @@ first_image: "images/projects/threonine/SITE-MOCKUP-CARTE-VISITE.jpg"
 project_images: ["images/projects/threonine/SITE-MOCKUP-wall-logo.jpg", "images/projects/threonine/SITE-Stationery.jpg", "images/projects/threonine/SITE-corporate-identity-mockup.jpg"]
 ---
 
-Design de mon logo "THREONINE" et mises en situation pour un ensemble de papeterie, signalétique.  
+Design de mon logo "THREONINE" et mises en situation pour un ensemble de papeterie, une signalétique.  
