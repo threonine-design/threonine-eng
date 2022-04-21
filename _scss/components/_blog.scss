@@ -27,6 +27,7 @@
       p{
         line-height: 28px;
         margin-bottom: 0;
+        color: $text-color-dark;
       }
     }
     &-pagination{
@@ -52,7 +53,7 @@
           }
         }
         a.read-more{
-          color: $primary-color;
+          color: $body-color;
           letter-spacing: 2px;
           @include mobile{
             transform: translateY(22px);

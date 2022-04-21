@@ -24,7 +24,7 @@
       }
       span{
         font-family: $secondary-font;
-        color: $text-color-dark;
+        color: $body-color;
         display: block;
         text-transform: uppercase;
         margin-bottom: 10px;
@@ -33,7 +33,7 @@
         margin-bottom: 0;
         color: $body-color;
         a{
-          color: $text-color-dark;
+          color: $body-color;
           transition: 0.3s ease;
           &:hover{
             text-decoration: none;
