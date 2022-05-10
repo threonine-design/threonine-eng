@@ -2,7 +2,7 @@
 
 title: Threonine Design
 email: contact@threoninedesign.fr
-description: Threonine | Illustrer la science
+description: Threonine | Illustrate science
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -31,9 +31,9 @@ webrick:
 
 # Navigation (remember to remove the redondant /threonine)
 navigation:
-  - title: Accueil
+  - title: Home
     url: /
-  - title: A propos
+  - title: About
     url: /about
   - title: Portfolio
     url: /portfolio
@@ -49,22 +49,22 @@ navigation:
 call-to-action:
   enable                : true
   background_image      : "images/backgrounds/cta-background2.jpg"
-  title                 : "Travaillons ensemble !"
-  primary_button        : "Contactez-moi"
+  title                 : "Let's Work Together !"
+  primary_button        : "Contact me"
   primary_button_url    : "contact"
-  secondary_button      : "Revoir mon travail"
+  secondary_button      : "See again my work"
   secondary_button_url  : "portfolio"
 
 # Footer
 footer:
   contactInfo:
-    title   : "Informations de contact"
+    title   : "Contact info"
     address : "Anne-Claire Godet </br> 220 chemin de Montabon <br/> 38660 LE TOUVET <br/> FRANCE"
     email   : "contact@threoninedesign.fr"
   sitemap:
-    title: "Plan du site"
+    title: "Site map"
     link: 
-      - name  : "A propos"
+      - name  : "About"
         url   : "/about"
       - name  : "Portfolio"
         url   : "/portfolio"
@@ -73,7 +73,7 @@ footer:
       - name  : "Contact"
         url   : "/contact"
   social:
-    title: "Réseaux sociaux"
+    title: "Social media"
     link: 
       - name  : "Linkedin"
         url   : "https://www.linkedin.com/in/anne-claire-godet-031/"
@@ -84,8 +84,8 @@ footer:
       - name  : "Facebook"
         url   : "https://www.facebook.com/threonine.design"
   service:
-    title: "J'aide les chercheurs à:"
-    description: "Libérer du temps pour se consacrer à leur coeur de métier <br/> Mettre en valeur leurs résultats </br> Faire passer leur message"
+    title: "I help researchers:"
+    description: "Free up time to focus <br/> on their core business <br/> Showcase their research </br> Spreads their message"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
