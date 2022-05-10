@@ -52,7 +52,7 @@ call-to-action:
   title                 : "Let's Work Together !"
   primary_button        : "Contact me"
   primary_button_url    : "contact"
-  secondary_button      : "See again my work"
+  secondary_button      : "See my work again"
   secondary_button_url  : "portfolio"
 
 # Footer
