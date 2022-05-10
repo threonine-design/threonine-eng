@@ -9,4 +9,4 @@ first_image: "images/projects/Sciencefacts/1.jpg"
 project_images: ["images/projects/Sciencefacts/2.jpg", "images/projects/Sciencefacts/3.jpg", "images/projects/Sciencefacts/4.jpg", "images/projects/Sciencefacts/5.jpg", "images/projects/Sciencefacts/6.jpg", "images/projects/Sciencefacts/7.jpg", "images/projects/Sciencefacts/8.jpg", "images/projects/Sciencefacts/9.jpg", "images/projects/Sciencefacts/10.jpg" ]
 ---
 
-Faits de science illustrés, postés chaque semaine sur mon compte instagram : <a href="https://www.instagram.com/threo.nine/">À découvrir ici</a>
+Illustrated science facts, posted each week on my Instagram : <a href="https://www.instagram.com/threo.nine/">to discover here</a>
