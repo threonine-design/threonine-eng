@@ -39,11 +39,13 @@ navigation:
     url: /portfolio
   - title: CV
     url: /cv
-  - title: Blog
-    url: /blog
+#  - title: Blog
+#    url: /blog
   - title: Contact
     url: /contact
     tag: special
+  - title: FR
+    url: https://threoninedesign.fr/
 
 # Call to action
 call-to-action:
