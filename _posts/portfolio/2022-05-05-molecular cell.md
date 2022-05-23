@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "YTHDC2 in cover of Molecular Cell"
+title: "YTHDC2 in Molecular Cell"
 date: 2022-05-05 08:00:00
 type: portfolio
 image: "images/projects/molcell/couv-molcell.jpg"
