@@ -160,4 +160,40 @@ pagination:
 <!-- end: testimonial section -->
 {% endif %}
 
+{% if site.data.testimonials-vrai.enable %}
+<!-- start: testimonialvrai section -->
+<section id="testimonialvrai" class="site-testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2>
+            {{ site.data.testimonials-vrai.title }}
+          </h2>
+          <p>
+            {{ site.data.testimonials-vrai.subtitle }}
+          </p>
+        </div>
+      </div>
+      {% for testimonial in site.data.testimonials-vrai.testimonial_item %}
+      <div class="col-lg-6 col-md-12">
+        <div class="site-testimonial-item"><!--pose probleme, enleve les box quand on cite testimonialvrai-->
+          <div class="site-testimonial-item-header">
+            <div class="person">
+              <h5>{{ testimonial.name }}</h5>
+              <p class="site-testimonial-item-body">
+                {{ testimonial.subtitle }}
+              </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- end: testimonial section -->
+{% endif %}
+
 {% include call-to-action.html %}

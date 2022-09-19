@@ -1,0 +1,17 @@
+enable  : true
+title   : "Your testimony"
+subtitle: "It's your turn to speak !"
+testimonial_item :
+  - thumb : "images/testimonial/noun-person-anis.png"
+    name  : "R.S PILLAI, Université de Genève"
+    subtitle: "Extremely satisfied with Anne-Claire’s scientific illustration services. She read the manuscript in question, discussed with my students, and came up with a range of creative ideas to implement, including the cover that was finally selected by the journal."
+  - thumb : "images/testimonial/noun-person-anis.png"
+    name  : "D. GATFIELD team, Université de Lausanne"
+    subtitle: "We received a highly detailed illustration of our scientific model in very short time and with minimum work from our side. The illustration is well designed and made according to our preferences. In addition, our collaboration with Anne-Claire was smooth and efficient."    
+  - thumb : "images/testimonial/noun-person-anis.png"
+    name  : "A-C PRATS, INSERM, Toulouse"
+    subtitle: "J’ai fait appel à THREONINE pour me faire un diaporama destiné à une conférence scientifique grand public. Il fallait des illustrations très pédagogiques pour pouvoir faire comprendre mon projet de recherche. Cette première expérience avec THREONINE a été formidable. Tout d’abord une très grande réactivité et rapidité de réalisation du travail. J’ai été favorablement impressionnée par la compréhension rapide de mes souhaits, et finalement un travail de belle qualité réalisé dans les temps malgré le délai court que je demandais. Je recommande pleinement THREONINE pour la réalisation de diaporama et d’illustrations scientifiques."
+  - thumb : "images/testimonial/noun-person-anis.png"
+    name  : "J. PANNEQUIN, IGF-CNRS, Montpellier"
+    subtitle: "It was a pleasure to work with THREONINE, she was not only very reactive but also very smart to adapt her work and provide very professional and relevant final rendering. I highly recommend THREONINE to work with."
+  
