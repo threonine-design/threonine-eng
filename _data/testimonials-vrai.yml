@@ -1,5 +1,5 @@
 enable  : true
-title   : "Your testimony"
+title   : "Your testimonials"
 subtitle: "It's your turn to speak !"
 testimonial_item :
   - thumb : "images/testimonial/noun-person-anis.png"
