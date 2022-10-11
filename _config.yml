@@ -39,8 +39,8 @@ navigation:
     url: /portfolio
   - title: CV
     url: /cv
-#  - title: Blog
-#    url: /blog
+  - title: Blog
+    url: /blog
   - title: Contact
     url: /contact
     tag: special
@@ -72,6 +72,8 @@ footer:
         url   : "/portfolio"
       - name  : "CV"
         url   : "/cv"
+      - name  : "Blog"
+        url   : "/blog"
       - name  : "Contact"
         url   : "/contact"
   social:

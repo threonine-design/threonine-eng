@@ -7,16 +7,15 @@ image: images/blog/sf1-couv.jpg
 feature_image: images/blog/SCIENCEFACT1.jpg
 author: Anne-Claire Godet
 ---
-### Lancement des Science Facts !
+### Starting Science Facts !
 
-Chaque vendredi je vous présenterai un fait de la science, avec sources à l'appui ! Aujourd'hui, un petit digital painting rapide pour vous montrer la beauté et les mystères de notre planète et de la voie lactée...
+Each friday I will present you a fact of science, with references of course ! Today, a quick digital painting to show you the beauty and the mysteries of our planet Earth and the milky way...
 
+REFERENCES :
 
-SOURCES :
+> <a href="https://asd.gsfc.nasa.gov/blueshift/index.php/2015/07/22/how-many-stars-in-the-milky-way">Article from NASA </a>
 
-> <a href="https://asd.gsfc.nasa.gov/blueshift/index.php/2015/07/22/how-many-stars-in-the-milky-way">Article de la NASA </a>
-
-> <a href="https://www.nature.com/articles/nature14967.epdf">Article de NATURE.COM </a>
+> <a href="https://www.nature.com/articles/nature14967.epdf">Article from NATURE.COM </a>
 
 #stars #milkyway #trees #sciencefact #illustrationscientifique #ilovescience
 
