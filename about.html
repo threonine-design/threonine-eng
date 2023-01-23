@@ -58,10 +58,39 @@ expertise_sectors: ["Research and review article illustration", "Design of figur
 </section>
 <!-- end: expertise section -->
 
+<!-- start: client section -->
+{%- if site.data.clients.enable -%}
+{%- assign clients = site.data.clients -%}
+<section class="site-client">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title">
+          <h2>{{ clients.title }}</h2>
+        </div>
+        <div class="site-client-wrapper">
+          {%- for logo in clients.client_logos -%}
+            <div class="site-client-item">
+              <img src="{{ logo | absolute_url }}" alt="client-logo">
+            </div>
+          {%- endfor -%}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>  -->
+<!-- end: clients section -->
+{%- assign clients = nill -%}
+{%- endif -%}
+
+
+ <!--end: expertise section 
+
 {%- if site.data.clients.enable -%}
 {%- assign clients = site.data.clients -%}
 
 {%- assign clients = nill -%}
-{%- endif -%}
+{%- endif -%} 
 
+-->
 {%- include call-to-action.html -%}
