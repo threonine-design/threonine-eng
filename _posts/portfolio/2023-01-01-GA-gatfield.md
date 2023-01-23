@@ -5,8 +5,8 @@ date: 2023-01-23 08:00:00
 type: portfolio
 image: "images/projects/Gatfield/images-projets.jpg"
 category: ["Graphical abstract"]
-first_image: "images/projects/Gatfield/GA-Gatfield-2.jpg"
-project_images: ["images/projects/Gatfield/GA-Gatfield-1.jpg"]
+first_image: "images/projects/Gatfield/GA-gatfield-2.jpg"
+project_images: ["images/projects/Gatfield/GA-gatfield-1.jpg"]
 ---
 
 
