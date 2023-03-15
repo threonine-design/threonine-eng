@@ -5,7 +5,7 @@ date: 2023-03-15 11:11:27
 type: portfolio
 image: "images/projects/alfaidy/couv.jpg"
 category: ["Graphical abstract"]
-first_image: "images/projects/Alfaidy/GA-Alfaidy1.jpg"
+first_image: "images/projects/alfaidy/GA-Alfaidy1.jpg"
 project_images: ["images/projects/alfaidy/GA-Alfaidy2.jpg", "images/projects/alfaidy/GA-Alfaidy3.jpg", "images/projects/alfaidy/GA-Alfaidy4.jpg"]
 ---
 
