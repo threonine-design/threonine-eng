@@ -6,7 +6,7 @@ type: portfolio
 image: "images/projects/alfaidy/couv.jpg"
 category: ["Graphical abstract"]
 first_image: "images/projects/Alfaidy/GA-Alfaidy1.jpg"
-project_images: ["images/projects/alfaidy/GA-Alfaidy1.jpg", "images/projects/alfaidy/GA-Alfaidy3.jpg", "images/projects/alfaidy/GA-Alfaidy4.jpg"]
+project_images: ["images/projects/alfaidy/GA-Alfaidy2.jpg", "images/projects/alfaidy/GA-Alfaidy3.jpg", "images/projects/alfaidy/GA-Alfaidy4.jpg"]
 ---
 
 Design of a graphical abstract for Reynaud et al from Biology and Biotechnology for Health laboratory, UMR INSERM/CEA/UGA (Grenoble) for their research article entitled "NLRP7 Enhances Choriocarcinoma Cell Survival and Camouflage in an Inflammasome Independent Pathway".
