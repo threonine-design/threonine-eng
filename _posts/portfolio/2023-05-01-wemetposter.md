@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Biochemistry facility posters"
-date: 2023-05-01 12:11:27
+date: 2023-05-01 11:11:27
 type: portfolio
 image: "images/projects/wemet/wemetposter-cover.jpg"
 category: ["Scientific posters"]
